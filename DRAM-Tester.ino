@@ -1,9 +1,12 @@
-// -*- C -*-
-
 /* Simple DRAM tester
- * Andre Miller http://www.andremiller.net/
+ *            2022 Dominic Thibodeau
+ *            https://github.com/hotkeysoft/arduino-dram-tester
+ * 
  * Based on:  http://insentricity.com/a.cl/252  Chris Osborn <fozztexx@fozztexx.com>
  *            https://github.com/FozzTexx/DRAM-Tester
+ *
+ *            http://www.andremiller.net/ Andre Miller 
+ *            https://github.com/andremiller/arduino-dram-tester
  */
 
 // Tested on Arduino UNO
